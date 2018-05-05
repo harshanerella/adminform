@@ -1,2 +1,0 @@
-# adminform
-Created with CodeSandbox

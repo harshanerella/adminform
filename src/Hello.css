@@ -1,0 +1,9 @@
+.dynamicContainer {
+  display: flex;
+}
+.formSelection {
+  flex: 2px;
+}
+.formGenerated {
+  flex: 2px;
+}
